@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Mrp_IP">
         <activity
+            android:name=".WaitingScreen"
+            android:exported="false" />
+        <activity
             android:name=".CreateTeam"
             android:exported="false" />
         <activity

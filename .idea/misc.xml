@@ -4,10 +4,11 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/abdel/Desktop/Mrp_IP/app/src/main/res/layout/activity_create_t.xml" value="0.1" />
-        <entry key="..\:/Users/abdel/Desktop/Mrp_IP/app/src/main/res/layout/activity_create_team.xml" value="0.14791666666666667" />
+        <entry key="..\:/Users/abdel/Desktop/Mrp_IP/app/src/main/res/layout/activity_create_team.xml" value="0.18" />
         <entry key="..\:/Users/abdel/Desktop/Mrp_IP/app/src/main/res/layout/activity_main.xml" value="0.13072916666666667" />
         <entry key="..\:/Users/abdel/Desktop/Mrp_IP/app/src/main/res/layout/activity_suggest_screen.xml" value="0.18888888888888888" />
         <entry key="..\:/Users/abdel/Desktop/Mrp_IP/app/src/main/res/layout/activity_team_m.xml" value="0.1" />
+        <entry key="..\:/Users/abdel/Desktop/Mrp_IP/app/src/main/res/layout/activity_waiting_screen.xml" value="0.14791666666666667" />
         <entry key="..\:/Users/abdel/Desktop/Mrp_IP/app/src/main/res/layout/list_item.xml" value="1.0142857142857142" />
       </map>
     </option>
