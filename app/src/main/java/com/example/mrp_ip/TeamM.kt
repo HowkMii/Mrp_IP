@@ -7,6 +7,7 @@ import android.os.Bundle
 import android.view.View
 import android.widget.Button
 import android.widget.EditText
+import android.widget.Toast
 import com.example.mrp_ip.databinding.ActivityTeamMBinding
 
 import com.google.android.material.textfield.TextInputEditText
@@ -34,6 +35,12 @@ class TeamM : AppCompatActivity() {
         }
         binding.CreateT.setOnClickListener{
             if(binding.CreateT.text=="Create Team")startActivity(Intent(this,CreateTeam::class.java))
+            else if (binding.CreateT.text=="Join"){
+                    startActivity(Intent(this,CreateTeam::class.java))
+                    Toast.makeText(applicationContext,"Rak m3a team flani",Toast.LENGTH_SHORT).show()
+
+            }
+
 
         }
 
