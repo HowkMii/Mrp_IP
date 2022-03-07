@@ -10,6 +10,12 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Mrp_IP">
         <activity
+            android:name=".CreateTeam"
+            android:exported="false" />
+        <activity
+            android:name=".CreateT"
+            android:exported="false" />
+        <activity
             android:name=".TeamM"
             android:exported="false" />
         <activity
