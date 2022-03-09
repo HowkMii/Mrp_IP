@@ -36,7 +36,7 @@ class TeamM : AppCompatActivity() {
         binding.CreateT.setOnClickListener{
             if(binding.CreateT.text=="Create Team")startActivity(Intent(this,CreateTeam::class.java))
             else if (binding.CreateT.text=="Join"){
-                    startActivity(Intent(this,CreateTeam::class.java))
+                    startActivity(Intent(this,WaitingScreendd::class.java))
                     Toast.makeText(applicationContext,"Rak m3a team flani",Toast.LENGTH_SHORT).show()
 
             }
